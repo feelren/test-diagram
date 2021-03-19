@@ -1,0 +1,13 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	margin: 50px auto 0;
+	width: 500px;
+	height: 400px;
+
+	.column {
+		width: 10%;
+		background-color: #1c91df;
+	}
+}
